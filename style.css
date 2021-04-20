@@ -47,3 +47,11 @@
 		}
 	#project #proj option{font-size:20px;}
 	#opt1, #opt2, #opt3, #opt4, #opt5, #opt6, #opt7{display:none; float:center; background-color:#232323; text-align:left; font-size:20px; margin:20px 20px 0 20px; padding:20px}
+
+	.my-list-1{
+		list-style: square;
+	}
+
+	.my-list-1>li{
+		padding: 0.5rem 0;
+	}
