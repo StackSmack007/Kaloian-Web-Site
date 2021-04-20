@@ -35,6 +35,15 @@
 	#Info #Header img{display:block; width:1359px; float:center; margin:0 20px 0 80px;}
 	#Info p{display:block; float:center; font-size:24px; font-style:italic; line-height:50px; text-align:center; background-color:#232323; margin:0 80px 0 80px; padding:20px 20px 20px 20px;}
 	#project h2{display:block; float:center; margin:10px 100px 0 100px; background-color:#232323; padding:0 200px 20px 200px; font-size:120px; font-weight:normal; font-style:bold; text-align:center;}
-	#project #proj{display:block; float:center; margin:20px 0 0 100px; width:1336px; font-size:20px; background-color:#a6a6a6;}
+	#project #proj{
+		display:block; 
+		float:center;
+		
+		padding: 0.75rem;
+	    margin: 2rem auto;
+		  max-width:87rem; 
+		  font-size:20px; 
+		  background-color:#a6a6a6;
+		}
 	#project #proj option{font-size:20px;}
 	#opt1, #opt2, #opt3, #opt4, #opt5, #opt6, #opt7{display:none; float:center; background-color:#232323; text-align:left; font-size:20px; margin:20px 20px 0 20px; padding:20px}
